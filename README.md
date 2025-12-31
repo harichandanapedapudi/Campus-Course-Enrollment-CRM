@@ -17,6 +17,7 @@ This Salesforce CRM project is designed to manage student enrollment, course com
 - Lightning Record Pages
 - Reports & Dashboards
 
- Demo Video
+
 Demo Video Link: https://drive.google.com/file/d/1WWqlgBO4R3rr8VgGIiWJxxBHvSaKNsth/view?usp=drivesdk
+Documentation Link: https://drive.google.com/file/d/1mZWpbdnTrT-q9oiNCgnGQjEUB3McWyCV/view?usp=drivesdk
 
